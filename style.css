@@ -47,7 +47,7 @@ nav > ul > li {
 
 .Banner-button {
     border: 2.7px solid #D1164C;
-    padding: .3em;
+    padding: .5em;
     width: fit-content;
     margin-top: 5em;
     /* clear:both;
@@ -57,6 +57,7 @@ nav > ul > li {
 .Banner-button > a {
     text-decoration: none;
     color:  #D1164C;
+    font-weight: bold;
 }
 
 /* **************************************
@@ -92,9 +93,9 @@ h2 {
 }
 
 .about-image > img {
-    width: 9em;
-    height: 9em;
-    margin-top: 1em;
+    width: 12em;
+    height: 12em;
+    margin-top: 2.5em;
 }
 
 .about-image {
