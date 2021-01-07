@@ -63,9 +63,40 @@ nav > ul > li {
             ABOUT SECTION
 ************************************** */
 .About {
-    margin-top: 15em;
+    margin-top: 17em;
+}
+
+.about-section {
+    display: flex;
+    flex-direction: column;
 }
 
 h2 {
     border-bottom: 2px solid red;
+}
+
+.about-content {
+    font-size: 1.2rem;
+}
+
+.tech-stack {
+    display: flex;
+}
+.tech-stack > ul {
+    list-style: none;
+    padding-left: 1em;
+}
+
+.fa-caret-right {
+    color: #D1164C;;
+}
+
+.about-image > img {
+    width: 9em;
+    height: 9em;
+    margin-top: 1em;
+}
+
+.about-image {
+    margin: 0 auto;
 }
