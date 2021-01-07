@@ -101,3 +101,14 @@ h2 {
 .about-image {
     margin: 0 auto;
 }
+
+/* **************************************
+            WORK SECTION
+************************************** */
+
+.work {
+    border: 1px solid red;
+    padding: 0 8px;
+    height: 14em;
+
+}
