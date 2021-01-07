@@ -46,7 +46,7 @@ nav > ul > li {
 }
 
 .Banner-button {
-    border: 2px solid #D1164C;
+    border: 2.7px solid #D1164C;
     padding: .3em;
     width: fit-content;
     margin-top: 5em;
@@ -57,4 +57,15 @@ nav > ul > li {
 .Banner-button > a {
     text-decoration: none;
     color:  #D1164C;
+}
+
+/* **************************************
+            ABOUT SECTION
+************************************** */
+.About {
+    margin-top: 15em;
+}
+
+h2 {
+    border-bottom: 2px solid red;
 }
