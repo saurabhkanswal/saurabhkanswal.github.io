@@ -1,0 +1,62 @@
+/* **************************************
+            BODY SECTION
+************************************** */
+
+body {
+    background-color: #F0E6DC;
+}
+
+.body-container {
+      padding: 0 25px; 
+      margin: 0 auto;
+}
+
+#pink-color {
+    color: #D1164C;
+}
+
+/* **************************************
+            NAVBAR SECTION
+************************************** */
+
+.navbar {
+    display: none;
+}
+
+/* .navbar > nav > ul {
+    display: flex;
+    justify-content: flex-end;
+    list-style: none;
+}
+
+nav > ul > li {
+    padding-left: 1em;
+} */
+
+
+/* **************************************
+            BANNER SECTION
+************************************** */
+
+.Banner {
+    display: flex;
+    align-items: center;
+}
+.Banner-child {
+}
+
+.Banner-content > p {
+    font-size: 2.2rem;
+}
+
+.Banner-button {
+    border: 2px solid #D1164C;
+    padding: .3em;
+    clear:both;
+    float:left;
+}
+
+.Banner-button > a {
+    text-decoration: none;
+    color:  #D1164C;
+}
