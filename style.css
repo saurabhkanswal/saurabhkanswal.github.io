@@ -1,4 +1,19 @@
 /* **************************************
+                SETTING
+************************************** */
+
+h1, h2, h3 {
+    font-family: 'Playfair Display', serif;
+}
+
+p {
+    font-family: proxima-nova, sans-serif;
+font-style: normal;
+font-weight: 100;
+}
+
+
+/* **************************************
             BODY SECTION
 ************************************** */
 
@@ -43,6 +58,7 @@ nav > ul > li {
 }
 .Banner-content > p {
     font-size: 2.2rem;
+    font-family: 'Playfair Display', serif;
 }
 
 .Banner-button {
@@ -132,6 +148,8 @@ h2 {
 }
 
 .blog-content {
+    display: flex;
+    align-items: center;
     width: 70%;
     background-color: #E1CDBA;
 }
@@ -139,4 +157,12 @@ h2 {
 .blog-img > img {
     width: 100%;
     height: 100%;
+}
+
+.blog-content > p {
+    margin: 0;
+    padding: 0 8px;
+    font-family: proxima-nova, sans-serif;
+    font-style: normal;
+    font-weight: 500;
 }
