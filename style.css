@@ -131,11 +131,22 @@ h2 {
 ************************************** */
 
 .work {
-    border: 1px solid red;
     padding: 0 8px;
     height: 16em;
     margin-top: 4em;
 
+}
+
+.work-img {
+    height: 100%;
+    width: 100%;
+    background-color: #E1CDBA;
+}
+
+.work-img > img{
+    width: 100%;
+    height: 100%;
+    opacity: 60%;
 }
 
 
