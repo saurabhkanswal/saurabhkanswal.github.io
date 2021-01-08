@@ -102,6 +102,9 @@ h2 {
 .tech-stack > ul {
     list-style: none;
     padding-left: 1em;
+    font-family: proxima-nova, sans-serif;
+    font-style: normal;
+    font-weight: 200;
 }
 
 .fa-caret-right {
