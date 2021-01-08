@@ -94,7 +94,7 @@ nav > ul > li {
 }
 
 h2 {
-    border-bottom: 2px solid red;
+    border-bottom: 2px solid #707070;
 }
 
 .about-content {
@@ -173,4 +173,29 @@ h2 {
     font-family: proxima-nova, sans-serif;
     font-style: normal;
     font-weight: 500;
+}
+
+/* **************************************
+            FOOTER SECTION
+************************************** */
+.footer-container {
+    margin-top: 3em;
+}
+.footer-container > p {
+    font-size: 11px;
+    margin-bottom: 2px;
+    text-align: center;
+}
+
+.footer-container > ul {
+    display: flex;
+    margin-top: 4px;
+    justify-content: center;
+    padding: 0;
+}
+
+.footer-container > ul > li {
+    color: #D1164C;
+    list-style: none;
+    padding-left: 7px;
 }
