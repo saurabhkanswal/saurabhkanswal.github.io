@@ -149,7 +149,7 @@ h2 {
     background-color:#E1CDBA;
     margin: 0 auto;
     top: 2em;
-    bottom: 6em;
+    bottom: 2em;
     right: 4em;
     left: 4em;
     opacity: 80%;
@@ -180,6 +180,21 @@ h2 {
     opacity: 40%;
 }
 
+.work-social-icon {
+    width: 100%;
+}
+
+.work-social-icon > ul {
+    display: flex;
+    list-style: none;
+    justify-content: flex-end;
+    padding: 0 10px;
+}
+
+.work-social-icon > ul > li {
+    padding-left: 10px;
+    color: #D1164C;
+}
 
 /* **************************************
             BLOG SECTION
