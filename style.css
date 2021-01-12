@@ -8,7 +8,7 @@ h1, h2, h3 {
 }
 @media (min-width:451px)  { 
     h1,h2,h3 {
-        font-size: 2.5em;
+        font-size: 1.92rem;
         font-family: proxima-nova, sans-serif;
     }
 }
@@ -70,7 +70,7 @@ body {
     }
 
     nav > ul > li {
-        font-size: 1.5rem;
+        font-size: 1.2rem;
         padding-left: 1em;
         font-family: 'Quicksand', sans-serif;
     }
@@ -84,7 +84,7 @@ body {
         text-decoration: none;
         color: #D1164C;
         font-weight: bold;
-        font-size: 1.5rem;
+        font-size: 1.2rem;
         padding: 1px 3px;
         font-family: 'Quicksand', sans-serif;
     }
@@ -129,13 +129,13 @@ body {
     }
 
     #heading1 {
-        font-size: 3rem;
+        font-size: 2.4rem;
         font-weight: 650;
         font-family: 'Quicksand', sans-serif;
     }
 
     #heading2 {
-        font-size: 3rem;
+        font-size: 2.4rem;
         margin: 2px 0 ;
         font-weight: 650;
         font-family: 'Quicksand', sans-serif;
@@ -152,7 +152,7 @@ body {
         border: 3px solid #D1164C;
     }
     .Banner-button > a {
-        font-size: 1.3rem;
+        font-size: 1.04rem;
         font-weight: 700;
         font-family: 'Quicksand', sans-serif;
     }
@@ -215,7 +215,7 @@ h2 {
 
     .about-content {
         width: 60%;
-        font-size: 1.5rem;
+        font-size: 1.2rem;
     }
 
     .about-image > img {
@@ -427,7 +427,7 @@ h2 {
     }
 
     .blog-content > p {
-        font-size: 2.7rem;
+        font-size: 2.16rem;
         padding-left: 1em;
     }
 }
@@ -466,6 +466,6 @@ h2 {
     }
 
     .footer-container > p {
-        font-size: 1.7rem;
+        font-size: 1.36rem;
     }
 }
