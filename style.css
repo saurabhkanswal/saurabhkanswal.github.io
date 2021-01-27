@@ -465,10 +465,10 @@ h2 {
     padding: 0;
 }
 
-.footer-container > ul > li {
+.footer-container > ul > a >li {
     color: #D1164C;
     list-style: none;
-    padding-left: 7px;
+    padding-left: 12px;
 }
 
 
