@@ -295,7 +295,12 @@ h2 {
     padding: 0 10px;
 }
 
-.work-social-icon > ul > li {
+.work-social-icon > ul > a > li {
+    padding-left: 10px;
+    color: #D1164C;
+}
+
+.work-social-icon > ul  > li {
     padding-left: 10px;
     color: #D1164C;
 }
