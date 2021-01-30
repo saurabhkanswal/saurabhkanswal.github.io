@@ -428,10 +428,10 @@ h2 {
 }
 
 .blog-button {
-    border: 2.5px solid #D1164C;
+    border: 2px solid #D1164C;
     width: fit-content;
     padding: .3em;
-    font-size:.5rem;
+    font-size:.8rem;
     margin: 2em auto;
 }
 
@@ -513,7 +513,7 @@ h2 {
 @media (min-width:451px)  {  
     .footer-container {
         font-size: 3rem;
-        margin-top: 5.5em;
+        margin-top: 7em;
     }
 
     .footer-container > p {
