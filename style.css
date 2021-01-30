@@ -488,7 +488,7 @@ h2 {
             FOOTER SECTION
 ************************************** */
 .footer-container {
-    margin-top: 3em;
+    margin-top: 5em;
 }
 .footer-container > p {
     font-size: 11px;
@@ -513,7 +513,7 @@ h2 {
 @media (min-width:451px)  {  
     .footer-container {
         font-size: 3rem;
-        margin-top: 7em;
+        margin-top: 5.5em;
     }
 
     .footer-container > p {
