@@ -1,3 +1,16 @@
+html::-webkit-scrollbar {
+  width: 10px;
+}
+
+html::-webkit-scrollbar-track {
+  background-color: #e1cdba;
+}
+
+html::-webkit-scrollbar-thumb {
+  background: #d1164c;
+  border-radius: 25px;
+}
+
 /* **************************************
                 SETTING
 ************************************** */
